@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black"/>
 <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=black"/>
 <img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>
-<img src="https://img.shields.io/badge/Visual Studio-white?style=for-the-badge&logo=Webpack&logoColor=5C2D91"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Webpack&logoColor=007ACC"/>
 <br>
 
 ### Связаться со мной:
